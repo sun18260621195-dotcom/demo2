@@ -1,0 +1,73 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="800" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E2E8F0"/>
+      <stop offset="100%" stop-color="#CBD5E1"/>
+    </linearGradient>
+    <linearGradient id="pumpGrad" x1="100" y1="300" x2="350" y2="450" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0284C7"/>
+      <stop offset="100%" stop-color="#0369A1"/>
+    </linearGradient>
+    <linearGradient id="jacketGrad" x1="380" y1="200" x2="550" y2="400" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1E40AF"/>
+      <stop offset="100%" stop-color="#1E3A8A"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" rx="8" fill="url(#bgGrad)"/>
+  
+  <!-- Wall panels & pipes in background -->
+  <line x1="200" y1="0" x2="200" y2="500" stroke="#94A3B8" stroke-width="3"/>
+  <line x1="450" y1="0" x2="450" y2="500" stroke="#94A3B8" stroke-width="3"/>
+  
+  <!-- Vertical pipes -->
+  <rect x="360" y="20" width="28" height="420" fill="#EA580C" rx="4"/>
+  <rect x="700" y="20" width="36" height="420" fill="#334155" rx="6"/>
+  <rect x="180" y="40" width="44" height="260" fill="#475569" rx="6"/>
+  
+  <!-- Control Box & Panel on Wall -->
+  <rect x="620" y="140" width="60" height="90" rx="4" fill="#F8FAFC" stroke="#64748B" stroke-width="2"/>
+  <rect x="635" y="160" width="30" height="20" rx="2" fill="#0284C7"/>
+  <circle cx="642" cy="205" r="4" fill="#EF4444"/>
+  <circle cx="658" cy="205" r="4" fill="#10B981"/>
+  
+  <!-- Equipment Platform & Pump Unit -->
+  <rect x="40" y="430" width="400" height="50" rx="6" fill="#F97316" stroke="#C2410C" stroke-width="2"/>
+  <!-- Pump base & housing -->
+  <rect x="60" y="340" width="220" height="95" rx="12" fill="url(#pumpGrad)"/>
+  <circle cx="210" cy="385" r="42" fill="#0369A1" stroke="#38BDF8" stroke-width="4"/>
+  <circle cx="210" cy="385" r="22" fill="#075985"/>
+  <rect x="250" y="320" width="60" height="110" rx="8" fill="#0284C7"/>
+  <!-- Connecting flanges & gauges -->
+  <rect x="20" y="375" width="45" height="40" rx="4" fill="#64748B"/>
+  <circle cx="210" cy="300" r="16" fill="#FFFFFF" stroke="#0369A1" stroke-width="3"/>
+  <line x1="210" y1="300" x2="218" y2="292" stroke="#EF4444" stroke-width="2"/>
+  
+  <!-- Technician Engineer squatting in inspection pose -->
+  <!-- Legs & Boots -->
+  <path d="M480 340 L450 420 L530 450 L560 410 Z" fill="#1E3A8A"/>
+  <path d="M430 420 L400 450 L460 460 Z" fill="#78350F"/>
+  <path d="M530 450 L520 470 L580 475 Z" fill="#78350F"/>
+  
+  <!-- Torso & Blue technician uniform -->
+  <path d="M430 250 C410 270 410 320 440 370 C470 380 520 370 540 330 C550 290 530 250 490 240 Z" fill="url(#jacketGrad)"/>
+  <!-- High visibility stripe -->
+  <path d="M435 290 L520 280" stroke="#34D399" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- Arms inspecting pump gauge -->
+  <path d="M450 260 L380 285 L320 275" stroke="#1E40AF" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Hand holding flashlight / tool -->
+  <rect x="300" y="265" width="24" height="12" rx="4" fill="#0F172A"/>
+  <polygon points="300,271 220,260 220,285" fill="#FEF08A" opacity="0.6"/>
+
+  <!-- Head with Yellow Safety Helmet & glasses -->
+  <circle cx="485" cy="205" r="24" fill="#FBBF24"/>
+  <path d="M460 195 C460 168 510 168 515 195 Z" fill="#FACC15" stroke="#D97706" stroke-width="2"/>
+  <path d="M455 195 L525 195" stroke="#D97706" stroke-width="4" stroke-linecap="round"/>
+  <!-- Face & Glasses -->
+  <circle cx="475" cy="210" r="14" fill="#FCD34D"/>
+  <rect x="465" y="206" width="12" height="6" rx="2" fill="#0284C7" stroke="#1E293B" stroke-width="1.5"/>
+
+  <!-- Technical Specimen Overlay Badge -->
+  <rect x="24" y="24" width="240" height="34" rx="6" fill="#0F172A" opacity="0.85"/>
+  <text x="38" y="46" fill="#F8FAFC" font-family="'PingFang SC', sans-serif" font-size="13" font-weight="500">现场设备巡检与水泵机组复核</text>
+</svg>

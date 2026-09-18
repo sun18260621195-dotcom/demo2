@@ -1,0 +1,12 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="magpieGrad" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#805AFF" />
+      <stop offset="100%" stop-color="#5524E8" />
+    </linearGradient>
+  </defs>
+  <!-- App Icon Squircle -->
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#magpieGrad)" />
+  <!-- Magpie Flying Silhouette -->
+  <path d="M49 14.5C47.8 14 44.5 15.2 43 16.5C40.5 18.7 39.2 21.2 38 23C35 22.8 30.5 24.2 26 27.5C23.2 29.5 21 32.5 19 36C18.2 37.4 16.5 41 15 44C17.5 42.5 20.5 41.2 23 40.5C22.2 42.8 20.8 45.8 19 48.5C18.2 49.7 17 51.5 15.5 53C18 52 21 50.5 23.5 49C22.8 51.2 21.8 54 20 56.5C23 54.5 26.5 51.5 29 48C31 45.2 32.5 42 34 38.5C36 39 38 38.5 40 37C42.5 35 44 32 45.5 28.5C47.5 24 50 19 51.5 16C51.8 15.4 51.5 14.8 50.5 14.6L49 14.5ZM44 19.5C43.2 19.5 42.5 18.8 42.5 18C42.5 17.2 43.2 16.5 44 16.5C44.8 16.5 45.5 17.2 45.5 18C45.5 18.8 44.8 19.5 44 19.5ZM35.5 26C33 27.8 29.5 30 26.5 32.5C28.8 31 31.8 29.8 34.5 29.2L35.5 26Z" fill="#FFFFFF" fill-rule="evenodd" clip-rule="evenodd"/>
+</svg>

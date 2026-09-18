@@ -1,0 +1,6 @@
+{
+  "name": "喜鹊 AI 标书",
+  "description": "喜鹊 AI 标书正文阅读与在线智能编辑",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

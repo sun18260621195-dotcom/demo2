@@ -1,0 +1,49 @@
+<svg width="800" height="460" viewBox="0 0 800 460" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="460" rx="8" fill="#FFFFFF" />
+  
+  <!-- Title -->
+  <text x="400" y="52" text-anchor="middle" fill="#111827" font-family="'Noto Serif SC', 'PingFang SC', sans-serif" font-size="22" font-weight="700" letter-spacing="1">物业管理服务方案</text>
+  
+  <!-- Center Dark Ring -->
+  <circle cx="400" cy="245" r="44" stroke="#4B5563" stroke-width="20" fill="#FFFFFF" />
+  <circle cx="400" cy="245" r="28" fill="#FFFFFF" />
+
+  <!-- Node 1: Top-Left (Red) 年度管理目标 -->
+  <circle cx="280" cy="145" r="32" fill="#E24D47" />
+  <path d="M312 165 L338 185" stroke="#E24D47" stroke-width="4" stroke-linecap="round"/>
+  <polygon points="346,191 332,185 340,175" fill="#E24D47" />
+  <text x="235" y="130" text-anchor="end" fill="#E24D47" font-family="'PingFang SC', sans-serif" font-size="14" font-weight="700">年度管理目标</text>
+  <text x="235" y="152" text-anchor="end" fill="#4B5563" font-family="'PingFang SC', sans-serif" font-size="11">确保环境整洁、设施正常、秩序稳定</text>
+  <text x="235" y="170" text-anchor="end" fill="#4B5563" font-family="'PingFang SC', sans-serif" font-size="11">及后勤保障，每月检查并反馈。</text>
+
+  <!-- Node 2: Mid-Left (Lime Green) 档案管理制度 -->
+  <circle cx="250" cy="255" r="32" fill="#84B835" />
+  <path d="M285 255 L320 255" stroke="#84B835" stroke-width="4" stroke-linecap="round"/>
+  <polygon points="328,255 316,249 316,261" fill="#84B835" />
+  <text x="205" y="248" text-anchor="end" fill="#84B835" font-family="'PingFang SC', sans-serif" font-size="14" font-weight="700">档案管理制度</text>
+  <text x="205" y="270" text-anchor="end" fill="#4B5563" font-family="'PingFang SC', sans-serif" font-size="11">建立电子与纸质双重归档，专人管理</text>
+  <text x="205" y="288" text-anchor="end" fill="#4B5563" font-family="'PingFang SC', sans-serif" font-size="11">，定期核查更新。</text>
+
+  <!-- Node 3: Bottom (Yellow/Gold) 信报服务标准 -->
+  <circle cx="400" cy="380" r="32" fill="#E5B81C" />
+  <path d="M400 345 L400 315" stroke="#E5B81C" stroke-width="4" stroke-linecap="round"/>
+  <polygon points="400,307 394,319 406,319" fill="#E5B81C" />
+  <text x="400" y="425" text-anchor="middle" fill="#C99805" font-family="'PingFang SC', sans-serif" font-size="14" font-weight="700">信报服务标准</text>
+  <text x="400" y="445" text-anchor="middle" fill="#4B5563" font-family="'PingFang SC', sans-serif" font-size="11">设立专门收发区，双人复核重要信件，确保信息准确及时。</text>
+
+  <!-- Node 4: Mid-Right (Sky Blue) 重大活动保障 -->
+  <circle cx="550" cy="255" r="32" fill="#24A1DE" />
+  <path d="M515 255 L480 255" stroke="#24A1DE" stroke-width="4" stroke-linecap="round"/>
+  <polygon points="472,255 484,249 484,261" fill="#24A1DE" />
+  <text x="595" y="248" text-anchor="start" fill="#24A1DE" font-family="'PingFang SC', sans-serif" font-size="14" font-weight="700">重大活动保障</text>
+  <text x="595" y="270" text-anchor="start" fill="#4B5563" font-family="'PingFang SC', sans-serif" font-size="11">制定后勤保障方案，安排专项负责人</text>
+  <text x="595" y="288" text-anchor="start" fill="#4B5563" font-family="'PingFang SC', sans-serif" font-size="11">对接协调活动需求。</text>
+
+  <!-- Node 5: Top-Right (Teal/Emerald Green) 人员培训计划 -->
+  <circle cx="520" cy="145" r="32" fill="#30B974" />
+  <path d="M488 165 L462 185" stroke="#30B974" stroke-width="4" stroke-linecap="round"/>
+  <polygon points="454,191 460,175 468,185" fill="#30B974" />
+  <text x="565" y="130" text-anchor="start" fill="#30B974" font-family="'PingFang SC', sans-serif" font-size="14" font-weight="700">人员培训计划</text>
+  <text x="565" y="152" text-anchor="start" fill="#4B5563" font-family="'PingFang SC', sans-serif" font-size="11">涵盖技能、应急、礼仪培训，每季度</text>
+  <text x="565" y="170" text-anchor="start" fill="#4B5563" font-family="'PingFang SC', sans-serif" font-size="11">一次，考核合格后上岗。</text>
+</svg>
